@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+//document.addEventListener("DOMContentLoaded", function() {
     const userLang = navigator.language || navigator.userLanguage;
 
     if (userLang.startsWith("pt")) {
